@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+.env
+secrets
+.env.development.local
+.env.test.local
+.env.production.local
